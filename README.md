@@ -41,5 +41,5 @@ https://localhost:3000
 
 ## Author
 
-NAME: Ummadisingh Madhuri
-Intern ID : SSTIMS250519
+- NAME: Ummadisingh Madhuri
+- Intern ID : SSTIMS250519
