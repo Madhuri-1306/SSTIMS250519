@@ -43,3 +43,7 @@ https://localhost:3000
 
 - NAME: Ummadisingh Madhuri
 - Intern ID : SSTIMS250519
+
+## screenshots
+![color_picker](https://github.com/user-attachments/assets/9294abd0-ec0d-41c1-a9d3-dc6998f14d97)
+
