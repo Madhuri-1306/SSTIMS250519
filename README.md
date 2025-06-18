@@ -46,11 +46,12 @@ https://localhost:3000
 
 ## screenshots
 ![Homepage](https://github.com/user-attachments/assets/5fb38e6e-ebcb-41b6-aa35-b91542ef3d7a)
-
+ This is the HomePage from Here you can Navigate  to color picker tool by clicking on the go to color picker button
 ![color_picker](https://github.com/user-attachments/assets/9294abd0-ec0d-41c1-a9d3-dc6998f14d97)
-
+ This is how the Color Picker tool appears
 ![colorpalettepreview](https://github.com/user-attachments/assets/ef611378-4ea1-4f5a-a361-364e5dc0513e)
-
+Color Palette Preview
 ![copyHEX](https://github.com/user-attachments/assets/9e1e7ddd-069c-4e10-ac59-170d66d36e2c)
-
+You can Copy the HEX of the color
 ![copyRGB](https://github.com/user-attachments/assets/4fa35ee6-79d7-49e5-9d8c-da3a085895e0)
+you can copy the color RGB code
