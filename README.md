@@ -20,7 +20,7 @@ A React-based color picker app that allows users to select colors, view their HE
 
 1. Clone the repo:
 
-   git clone https://github.com/Madhuri-1306/SSTIMS250519.git
+  git clone https://github.com/Madhuri-1306/SSTIMS250519.git
 
 2.Navigate into the project directory:
 
@@ -30,11 +30,11 @@ cd colorpicker
 
 npm install
 
-4.Run the Development Serer:
+4.Run the Development Server:
 
 npm start
 
-5.OPen browser an dvisit
+5.Open browser an visit
 
 https://localhost:3000
 
@@ -48,8 +48,9 @@ https://localhost:3000
 
 ## Author
 
-MY NAME: Ummadisingh Madhuri
-Intern ID SSTIMS250519
+NAME: Ummadisingh Madhuri
+
+Intern ID : SSTIMS250519
 
 
 
