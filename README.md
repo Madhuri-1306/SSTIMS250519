@@ -20,7 +20,7 @@ A React-based color picker app that allows users to select colors, view their HE
 
 1. Clone the repo:
 
-   git clone https://github.com/yourusername/color-picker-tool.git
+   git clone https://github.com/Madhuri-1306/SSTIMS250519.git
 
 2.Navigate into the project directory:
 
