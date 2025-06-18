@@ -1,6 +1,7 @@
 # SSTIMS250519
 # Color Picker Tool 🎨
 Title:Color Picker Tool
+
 DESCRIPTION:
 A React-based color picker app that allows users to select colors, view their HEX and RGB values, copy them, and save colors to a palette.
 
