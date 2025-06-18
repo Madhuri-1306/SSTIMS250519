@@ -1,5 +1,6 @@
 # Color Picker Tool 🎨
-Title:Color Picker Tool
+TITLE: Color Picker Tool
+
 DESCRIPTION:
 A React-based color picker app that allows users to select colors, view their HEX and RGB values, copy them, and save colors to a palette.
 
@@ -7,7 +8,7 @@ A React-based color picker app that allows users to select colors, view their HE
 
 - React.js
 - CSS
--Github for version control
+- Github for version control
 
 ## Key Features
 
@@ -38,20 +39,7 @@ npm start
 
 https://localhost:3000
 
-## screenshots
-![HOmepage Screenshot ](screenshots/Homepage.png)
-![Copied HEX Screenshot](screenshots/copyHEX.png)
-![Copied RGB Screenshot](screenshots/copyRGB.png)
-![Color Picker Screenshot](screenshots/color_picker.png)
-![Palette Preview Screenshot](screenshots/colorpalettepreview.png)
-
-
 ## Author
 
-MY NAME: Ummadisingh Madhuri
-Intern ID SSTIMS250519
-
-
-
-
-
+NAME: Ummadisingh Madhuri
+Intern ID : SSTIMS250519
